@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sizif.png" alt="Sizif Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/djole589/Sizif/main/sizif" alt="Sizif Logo" width="600"/>
 
   # Sizif — Counter-Strike 2
 
