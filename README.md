@@ -34,7 +34,7 @@ The **Sizif cheat** remains private for the time being. Invites for the testing 
 All news, status updates, and build announcements regarding the **Sizif CS2 cheat** project are posted on our official website. 
 
 For additional information or to check the status of current builds, visit:
- **https://sizif.win**
+👉 **https://sizif.win**
 
 ---
 
@@ -44,5 +44,5 @@ For additional information or to check the status of current builds, visit:
 ---
 
 <div align="center">
-  <sub>Sizif Project &copy; 2026 — All rights reserved.</sub>
+  <sub>Sizif Project &copy; 2020 - 2026 — All rights reserved.</sub>
 </div>
