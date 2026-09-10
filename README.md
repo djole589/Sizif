@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/djole589/Sizif/main/sizif" alt="Sizif Logo" width="200"/>
 
-  # Sizif — Counter-Strike 2
+  # Sizif — CS2 Cheat & Software Project
 
   An internal CS2 project built with a focus on performance, security, and low-level system optimization.
 </div>
@@ -10,20 +10,20 @@
 
 ## Overview
 
-Sizif originally started back in 2020 during the CS:GO era as a strictly private build reserved for a small circle of users. With the transition to Source 2, the core codebase was completely rewritten from the ground up to match the new engine mechanics, memory offsets, and rendering pipeline.
+**Sizif** originally started back in 2020 during the CS:GO era as a strictly private build reserved for a small circle of users. With the transition to Source 2, the core codebase was completely rewritten from the ground up to match the new engine mechanics, memory offsets, and rendering pipeline.
 
-The project is currently in a controlled closed beta phase, focusing on gathering hardware compatibility data, refining feature stability, and optimizing execution overhead.
+The **Sizif CS2 cheat** project is currently in a controlled closed beta phase, focusing on gathering hardware compatibility data, refining feature stability, and optimizing execution overhead for Counter-Strike 2.
 
 ## Key Focus Areas
 
-* **Engine Compatibility:** Specifically designed for Counter-Strike 2 architecture and memory structures.
-* **Minimal Overhead:** Optimized code execution to prevent frame drops and maintain high tick-rate stability.
-* **Modular Structure:** Clean codebase allowing rapid updates following game patches.
-* **Controlled Access:** Limited invite distribution to keep the userbase small during testing.
+* **Engine Compatibility:** Specifically designed for Counter-Strike 2 architecture, offset management, and memory structures.
+* **Minimal Overhead:** Optimized C++ execution to prevent frame drops and maintain high tick-rate stability.
+* **Modular Structure:** Clean codebase allowing rapid updates following game patches and VAC updates.
+* **Controlled Access:** Limited invite distribution for the Sizif cheat to keep the userbase small during testing.
 
 ## Project Status & Distribution
 
-The project remains private for the time being. Invites for the testing phase are handed out in batches through direct contacts and selected community hubs.
+The **Sizif cheat** remains private for the time being. Invites for the testing phase are handed out in batches through direct contacts and selected community hubs.
 
 * **Status:** Closed Beta
 * **Platform:** Windows 10 / 11 (x64)
@@ -31,10 +31,15 @@ The project remains private for the time being. Invites for the testing phase ar
 
 ## Media & Documentation
 
-All news, status changes, and documentation updates regarding the Sizif CS2 project are posted on our official website. 
+All news, status updates, and build announcements regarding the **Sizif CS2 cheat** project are posted on our official website. 
 
 For additional information or to check the status of current builds, visit:
-**https://sizif.win**
+ **https://sizif.win**
+
+---
+
+### Search Keywords
+`sizif` | `sizif cheat` | `sizif cs2 cheat` | `sizif cs 2 cheat` | `sizif win` | `cs2 private cheat` | `cs2 beta invite`
 
 ---
 
