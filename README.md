@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/djole589/Sizif/main/sizif" alt="Sizif Logo" width="200"/>
+  <img src="https://github.com/djole589/Sizif/blob/0e124dcc06cdf6b2a022f3706b72be50c1cecff6/sizif.jpg" alt="Sizif Logo" width="200"/>
 
   # Sizif — CS2 Cheat & Software Project
 
